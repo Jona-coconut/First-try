@@ -2,7 +2,8 @@
 
 int main(){
 
- printf("jona\n");
- printf("karl\n");
-return 0;
+    printf("jona\n");
+    printf("karl\n");
+    printf("karl gwapo ayou\n");
+    return 0;
 }
